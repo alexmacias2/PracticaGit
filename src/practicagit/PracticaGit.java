@@ -28,9 +28,7 @@ public class PracticaGit {
     }
     
     public void fantasma() {
-        for (int a = 0; a < 10; a++) {
-            System.out.println("Adios muy buenas "+a);
-        }
+        
     }
 
 }
