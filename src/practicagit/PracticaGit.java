@@ -27,6 +27,8 @@ public class PracticaGit {
 
     }
     
-    
+    public void fantasma() {
+        
+    }
 
 }
