@@ -26,5 +26,9 @@ public class PracticaGit {
     public void metodo3() {
 
     }
+    
+    public void fantasma() {
+        
+    }
 
 }
