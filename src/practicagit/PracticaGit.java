@@ -22,4 +22,9 @@ public class PracticaGit {
     public void metodo2() {
 
     }
+
+    public void metodo3() {
+
+    }
+
 }
